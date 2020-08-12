@@ -11,7 +11,10 @@ public class Zeilencode {
 		double f = d * e;
 		//double g = c - f; //result = -283.4351684274322 I blend that out, because g is stated in the following again.
 		double g = ((Math.sqrt(3.5 + 15.5)* 5) / 3) - ((15.5 + 10) * (15.5 - 4.1));
-		
+
+
+//Keine Ahnung, was ich hier schon wieder ändern soll...BAM BAM BAM
+
 		System.out.println(g);
 	}
 
